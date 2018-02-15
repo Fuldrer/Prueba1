@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.cpp
+DataFile.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.h
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.h
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_1.cpp
+Registro_1.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_1.h
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_1.h
+DataFile.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string.h
+-
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_2.cpp
+Registro_2.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_2.h
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_2.h
+DataFile.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string.h
+-
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_3.cpp
+Registro_3.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_3.h
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_3.h
+DataFile.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/DataFile.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string.h
+-
+
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/main.cpp
+iostream
+-
+Registro_2.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_2.h
+Registro_1.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_1.h
+Registro_3.h
+C:/Users/Carlos Molina/Documents/GitHub/Prueba1/Registro_3.h
+

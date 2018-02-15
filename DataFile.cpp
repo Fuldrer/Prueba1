@@ -13,14 +13,14 @@ void DataFile::cerrar() {
 }
 
 void DataFile::escribir(char *data, int pos, int bytes) {
-    fseek(archivo,0,SEEK_SET);
-    fwrite(data,1,94,archivo);
+    fseek(archivo,bytes,SEEK_SET);
+    fwrite(data,1,bytes,archivo);
 }
 
 char *DataFile::leer(int pos, int bytes) {
-    fseek(archivo,pos,SEEK_SET);
+    fseek(archivo,0,SEEK_SET);
     char*data = new char[bytes];
-    fread(data, 1, 94,archivo);
+    fread(data, 1, bytes,archivo);
     return data;
 }
 

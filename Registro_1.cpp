@@ -46,7 +46,7 @@ void Registro_1::abrir_archivo() {
 }
 
 void Registro_1::leer_archivo() {
-
+    fromchar(archivo->leer(0,tam_registro));
 }
 
 void Registro_1::guardar_archivo(char *data) {

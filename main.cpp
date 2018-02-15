@@ -21,17 +21,17 @@ int main() {
     Registro_3 *reg3 = new Registro_3(n,a,21,d);
     /*reg1->abrir_archivo();
     char*data1 = reg1->tochar();
-    reg1->guardar_archivo(data2);
+    reg1->guardar_archivo(data1);
     reg1->cerrar_archivo();*/
-   /* reg2->abrir_archivo();
+    reg2->abrir_archivo();
     char *data2 =reg2->tochar();
-    reg2->guardar_archivo(data);
+    reg2->guardar_archivo(data2);
     //reg2->leer_archivo();
-    reg2->cerrar_archivo();*/
-    reg3->abrir_archivo();
+    reg2->cerrar_archivo();
+    /*reg3->abrir_archivo();
     char*data3 = reg3->tochar();
-    //reg3->guardar_archivo(data3);
-    reg3->cerrar_archivo();
+    reg3->guardar_archivo(data3);
+    reg3->cerrar_archivo();*/
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }

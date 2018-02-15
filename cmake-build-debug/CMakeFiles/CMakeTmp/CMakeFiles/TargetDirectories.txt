@@ -1,3 +1,0 @@
-C:/Users/Carlos Molina/Documents/GitHub/Prueba1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_fbbf1.dir
-C:/Users/Carlos Molina/Documents/GitHub/Prueba1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/Carlos Molina/Documents/GitHub/Prueba1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

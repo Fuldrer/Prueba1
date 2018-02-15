@@ -1,3 +1,0 @@
-C:/Users/Carlos Molina/CLionProjects/Intento2/cmake-build-debug/CMakeFiles/Intento2.dir
-C:/Users/Carlos Molina/CLionProjects/Intento2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Carlos Molina/CLionProjects/Intento2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
